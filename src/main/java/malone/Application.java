@@ -1,4 +1,4 @@
-package hello;
+package malone;
 
 import java.util.Arrays;
 
