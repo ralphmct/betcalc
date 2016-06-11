@@ -15,6 +15,7 @@ public class BasicBetService implements BetService {
     }
 
     private double calculateProfit(int oddsPart1, int oddsPart2, int stake) {
+
         return 0.0;
     }
 }
