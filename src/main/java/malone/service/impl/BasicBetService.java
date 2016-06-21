@@ -17,7 +17,14 @@ public class BasicBetService implements BetService {
 
 
     private double calculateProfit(int oddsPart1, int oddsPart2, int stake) {
-        double calculateProfit = (stake * oddsPart1 / oddsPart2) + stake;
+        double calculateProfit = oddsPart2 / (oddsPart1 + stake);
+        if(oddsPart1 <=0){
+            System.out.println("Cannot have odds below 1");
+        }
         return calculateProfit;
+
+
+
+
     }
 }

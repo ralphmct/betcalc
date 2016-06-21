@@ -7,4 +7,6 @@ public interface BetService {
 
     String calculateBet(int oddsPart1, int oddsPart2, int stake);
 
-}
+
+    }
+
