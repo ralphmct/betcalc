@@ -1,6 +1,7 @@
-package malone.service.impl;
+package java.impl;
 
-import malone.service.BetService;
+import java.BetService;
+
 import org.springframework.stereotype.Component;
 import java.util.Scanner;
 

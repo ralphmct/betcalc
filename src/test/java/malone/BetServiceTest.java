@@ -1,6 +1,7 @@
-package malone.service;
+package java.malone;
 
-import malone.service.impl.BasicBetService;
+import java.BetService;
+import java.impl.BasicBetService;
 import org.junit.Before;
 import org.junit.Test;
 

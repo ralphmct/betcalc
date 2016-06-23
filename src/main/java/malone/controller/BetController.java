@@ -1,6 +1,6 @@
 package malone.controller;
 
-import malone.service.BetService;
+import java.BetService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RequestMapping;

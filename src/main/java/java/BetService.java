@@ -1,4 +1,4 @@
-package malone.service;
+package java;
 
 /**
  * Created by mct on 10/06/16.
